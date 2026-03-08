@@ -1,4 +1,4 @@
-package Latihan1_PBO;
+package latihan4;
 
 public class SegiTiga extends BangunDatar {
     

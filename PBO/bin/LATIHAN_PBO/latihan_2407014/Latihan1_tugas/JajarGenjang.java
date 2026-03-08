@@ -1,4 +1,4 @@
-package Latihan1_PBO;
+package Latihan1_tugas;
 
 public class JajarGenjang extends BangunDatar {
     
